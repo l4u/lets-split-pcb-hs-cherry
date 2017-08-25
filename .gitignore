@@ -22,3 +22,13 @@ _autosave-*
 
 # ignore project file in this repository
 *.pro
+
+gerber/*.drl
+gerber/*.gbl
+gerber/*.gbs
+gerber/*.gbo
+gerber/*.gm1
+gerber/*.gtl
+gerber/*.gts
+gerber/*.gto
+gerber.zip
