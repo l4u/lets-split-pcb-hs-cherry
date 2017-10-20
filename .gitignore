@@ -20,9 +20,7 @@ _autosave-*
 *.xml
 *.csv
 
-# ignore project file in this repository
-*.pro
-
+# Gerber files
 gerber/*.drl
 gerber/*.gbl
 gerber/*.gbs
