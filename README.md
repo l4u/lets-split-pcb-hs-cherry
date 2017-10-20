@@ -7,6 +7,8 @@ Based on [climbalima/let-s-Split-v2](https://github.com/climbalima/let-s-Split-v
 
 ## Overview
 
+![img](https://dl.dropboxusercontent.com/s/hjp16hiklnfri5n/lets_split_pcb.jpeg)
+
 By crimping the socket to the through hole, it is possible to install without having to solder the axis of the switch and Pro Micro.
 
 Cherry MX switch and several clone switches are available.
@@ -43,7 +45,15 @@ See youtube video.
 
 You can crimp the socket only to the through hole of the pin to be used. You can ***NOT*** crimp the socket into the through hole of the unused pin.
 
-![img](pro_micro.png)
+
+#### Rev 1.1.0 or higher
+
+![img](https://dl.dropboxusercontent.com/s/t9sq113kca3tj14/pro_micro2.png)
+
+
+#### Up to rev 1.0.1
+
+![img](https://dl.dropboxusercontent.com/s/4xlsi5lbexc57dy/pro_micro.png)
 
 It is not possible to crimp the socket to the through hole where the socket is not stuck in the picture.
 
@@ -52,5 +62,13 @@ It is not possible to crimp the socket to the through hole where the socket is n
 
 Be careful not to mistake the position of the through hole.
 
-![img](switch.png)
+![img](https://dl.dropboxusercontent.com/s/zz83v50ao0jtv3l/switch.png)
+
+
+## IMPORTANT NOTE
+
+1. I have not confirmed the operation of some functions. Refer to the [Confirmed list](https://github.com/haru-ake/lets-split-pcb-hs-cherry/wiki/Confirmed-list) for details.
+1. With PCB revision 1.1.0 or higher, the board size has been changed. If you want to use the original case of Let's Split Be careful.
+
+![img](https://dl.dropboxusercontent.com/s/47v735b8sqxolmz/pcb_size.png)
 
