@@ -2666,8 +2666,7 @@
     (pad 1 thru_hole circle (at -0.82 0.04 180) (size 0.5 0.5) (drill 0.15) (layers *.Cu *.Mask F.SilkS)
       (net 33 xtradata))
   )
-
-  (gr_text "Cherry MX version\nRev. 1.1.0" (at 38.735 109.347) (layer B.SilkS)
+  (gr_text "Cherry MX version\nRev. develop" (at 38.735 109.347) (layer B.SilkS)
     (effects (font (size 1 1) (thickness 0.2)) (justify right mirror))
   )
   (gr_text "for Holtite socket" (at 78.867 71.501) (layer B.SilkS)
